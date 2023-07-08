@@ -5,6 +5,12 @@ import { Component } from '@angular/core';
   templateUrl: './livraria-app.component.html',
   styleUrls: ['./livraria-app.component.css']
 })
+
 export class LivrariaAppComponent {
+
+  constructor() { }
+
+  ngOnInit(): void {
+  }
 
 }
